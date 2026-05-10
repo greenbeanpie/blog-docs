@@ -7,6 +7,8 @@ tags:
     - 写作
 ---
 
+# 通用表达
+
 ## 时间
 
 | 英文 | 中文含义 | 常见表达/用法 | 注意事项 |
@@ -36,9 +38,54 @@ The book gives an admirably succinct account of the technology and its history. 
 | **A spectacular array of** | 琳琅满目的，壮观的 | a spectacular array of... | 强调事物的多样性且令人惊叹。 |
 | **Ranging from... to...** | 范围从...到... | ranging from children to adults | 用于描述跨度或种类。 |
 
+# 文章结构
+
+## 缺陷
+
+* give individuals the illusion of - 产生...的幻觉
+
+## 面对挑战
+
+- **yielding to fear**：向恐惧妥协
+- **steady my trembling nerves**：镇定我紧张的情绪
+- **plunge into the battle**：毅然投身于战斗之中
+- **scouring through piles of references**：翻阅海量文献
+- **savor the sweetness of the ultimate triumph.**：享受最后成功的喜悦
+- **storms of difficulties loom on the horizon**：困难的风暴即将来临
+- **cower in the shadows**：躲在暗处瑟瑟发抖
+
 ## 行动
 
-* strike a balance between - 在二者之间达成平衡
+* champion v. - 倡导
+* strike a sensible balance between/by - 在二者之间达成平衡
+
+## 辩证讨论
+
+* sift through the noise and extract the essence - 去其糟粕，取其精华
+
+## 总结
+
+* Ultimately, it boils down to (our self discipline) - 最终归结于
+
+## 启示
+
+
+| 英文 | 中文含义 | 常见表达/用法 | 注意事项 |
+| :--- | :--- | :--- | :--- |
+| **Reach an epiphany** | 顿悟，开窍 | An epiphany hit/struck him. | 描写经过苦思冥想后突然产生的感悟。 |
+| **Revelation** | 启示，真相 | a startling revelation | 指揭露了原本隐藏的惊人事实。 |
+---
+| 英文 | 中文含义 | 常见表达/用法 | 注意事项 |
+| :--- | :--- | :--- | :--- |
+| **Kindle an unquenchable light** | 点燃永不熄灭之光 | Kindness **kindled an unquenchable light** | 常用于结尾升华主题，表达希望与人性。 |
+| **A token of** | ……的象征 | as **a token of** gratitude | 常用于表达谢意的场合。 |
+| **Everlasting** | 永恒的；持久的 | left an **everlasting** impression on... | 形容持久、难以磨灭的影响。 |
+| **Thaw** | 融化 / 缓和 | The ice began to **thaw** | 既可指冰雪融化，也可指气氛或关系的转好。 |
+| **Tumble** | 醒悟 | **Tumble** to the truth | 用于抽象的“领悟”。 |
+| **Conduit** | 渠道，媒介 | a conduit for communication/information | 指连接两者的路径或媒介。 |
+
+* holistic view - 全局视角
+* long-term vision - 长远视野
 
 ## 其他
 

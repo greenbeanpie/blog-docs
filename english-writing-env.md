@@ -83,4 +83,3 @@ tags:
 * ravenous fire - 贪婪的火海
 * ear-splitting blast - 震耳欲聋的爆炸
 * debris - 残骸
-

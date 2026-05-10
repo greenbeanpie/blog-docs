@@ -29,7 +29,7 @@ tags:
 | **Thrash** | 痛打，彻底击败 | thrash the opponent | 常用于体育竞技中表示大获全胜。 |
 | **Rectify** | 纠正，改正 | rectify a mistake / situation | 比 correct 更正式，用于纠正漏洞或不公。 |
 | **Impede** | 阻碍，妨碍 | impede the progress of... | 正式用语，指使某事进度变慢或停止。 |
-* **Curb / Restrain** (抑制/控制) -- 描写控制情绪或某种势头的过程。
+* **Curb / Restrain** (抑制/克制) -- 描写控制情绪或某种势头的过程。
 * **Unravel** (解开/阐明) -- 描写真相大白或解决复杂问题的过程。
 * **Predicament** (困境/窘境) -- 交代故事情节中的转折点。
 * **Collide** (碰撞/冲突) -- 既可指物理碰撞，也可指矛盾冲突。
