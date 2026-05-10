@@ -41,6 +41,10 @@ date: 2026-05-02 17:02:41
 * formation of a systematic knowledge structure - 系统性知识架构的形成
 * taking full advantage of odds and ends of time - 充分利用一分一秒
 * cognitive inertia - 认知惯性
+* **precipice of the fierce competition**: 处于激烈竞争的紧要关头
+* **burning the midnight oil**: 挑灯夜战
+* **grueling process of stepping out of my comfort zone**: 迈出舒适区的煎熬历程
+* **Confronted with exceptionally eloquent opponents**: 面对异常雄辩的对手
 
 ## Prospect Decision/Dream Job
 
@@ -51,12 +55,14 @@ date: 2026-05-02 17:02:41
 
 * an indispensable part of life - 生活不可或缺的一部分
 * incivility n. - 不文明行为
+* self-censorship - 自我审查
+* fleeting yet beautiful moment - 转瞬即逝的美好时光
 
 ## 传统与文化
 
 * ink-wash - 水墨画
 * mutual understanding - 相互理解
-* Auspicious atmosphere - 吉祥的气氛
+* auspicious atmosphere - 吉祥的气氛
 * profound wisdom embedded in Chinese culture - 中华文化中的深刻智慧
 * the epitome of Chinese traditional art - 中国传统艺术的缩影
 * Extensive and profound - 博大精深
@@ -71,17 +77,25 @@ date: 2026-05-02 17:02:41
 ## 科技与时代困局
 
 * satirical paradox - 讽刺的悖论（自相矛盾的情况）
+* the illusion of choice - 选择的幻象
+* to operate on autopilot - 以自动驾驶方式生活(失去意识/选择)
 * public sentiment - 公众舆论
 * tangible/authentic/genuine adj. - 可感知的/真实的/真诚的
 * circumscribes the boundaries of our autonomy - 限制自主权的边界
 * humanistic concern/care - 人文关怀
 * instant gratification - 瞬时满足
+* an erosion of authentic selfhood - 对主体性的侵蚀
+* **Technological Mediated** (adj.): 技术中介的 (人与世界的关系不再直接，而是通过屏幕/算法)
+* authenticity - 本真性
+* alienation - 异化 - 用于指现代人的心理状态，通常表现为无力感（命运被外界掌控）、无意义感（感觉工作与学习无意义）和自我疏离（为了迎合社会期待而戴着面具生活）。
+
 
 ### Machine and Artificial Intelligence
 
 *   **Algorithmic Determinism** (n.): 算法决定论 (认为算法决定了人的选择和命运)
 *   **Datafication** (n.): 数据化 (将人的行为、情感转化为数据点，从而使其客体化)
 *   **Predictive Modeling** (n.): 预测模型 (算法预判你的行为，削弱了随机性和自发性)
+
 
 ### Consumerism(e.g. blind box)
 
@@ -95,9 +109,8 @@ date: 2026-05-02 17:02:41
 
 * estrange v. - 疏远 - ~ from sb.
 * isolation n. - 隔离状态
-*   **Technological Mediated** (adj.): 技术中介的 (人与世界的关系不再直接，而是通过屏幕/算法)
 
-### Attention Plunder
+### Attention Plunder/Cognitive Deficiency
 
 * bite-sized digital content
 * bombarded with a deluge of digital information
@@ -110,4 +123,3 @@ date: 2026-05-02 17:02:41
 * anonymity n. - 匿名
 * digital etiquette - 数字礼仪
 * digital footprint - 数字足迹
-* self-censorship - 自我审查

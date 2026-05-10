@@ -14,6 +14,7 @@ tags:
 | 英文 | 中文含义 | 常见表达/用法 | 注意事项 |
 | :--- | :--- | :--- | :--- |
 | **In a blink of an eye** | 一眨眼功夫 | The storm vanished **in a blink of an eye** | 形容速度极快，增加画面感。 |
+* transient - 短暂的，稍纵即逝的
 
 ## 影响
 
@@ -37,18 +38,25 @@ The book gives an admirably succinct account of the technology and its history. 
 | **A myriad of** | 无数的，大量的 | a myriad of choices | 正式表达，常接复数名词 |
 | **A spectacular array of** | 琳琅满目的，壮观的 | a spectacular array of... | 强调事物的多样性且令人惊叹。 |
 | **Ranging from... to...** | 范围从...到... | ranging from children to adults | 用于描述跨度或种类。 |
+* envisioned/served as - 设想为/作为
+
+## 事件阶段
+
+* inaugurate - 正式开始/开创(约等于start)
 
 # 文章结构
+
+## 
 
 ## 缺陷
 
 * give individuals the illusion of - 产生...的幻觉
 
-## 面对挑战
+## 面对问题
 
-- **yielding to fear**：向恐惧妥协
-- **steady my trembling nerves**：镇定我紧张的情绪
+- **yielding to (fear)**：向(恐惧)妥协
 - **plunge into the battle**：毅然投身于战斗之中
+- **steady my trembling nerves**：镇定我紧张的情绪
 - **scouring through piles of references**：翻阅海量文献
 - **savor the sweetness of the ultimate triumph.**：享受最后成功的喜悦
 - **storms of difficulties loom on the horizon**：困难的风暴即将来临
@@ -62,13 +70,13 @@ The book gives an admirably succinct account of the technology and its history. 
 ## 辩证讨论
 
 * sift through the noise and extract the essence - 去其糟粕，取其精华
+* the symbiotic relationship between - ...之间的共生关系
 
 ## 总结
 
 * Ultimately, it boils down to (our self discipline) - 最终归结于
 
 ## 启示
-
 
 | 英文 | 中文含义 | 常见表达/用法 | 注意事项 |
 | :--- | :--- | :--- | :--- |
