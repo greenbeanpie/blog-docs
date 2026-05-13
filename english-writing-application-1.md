@@ -608,6 +608,12 @@ Ultimately, extracurricular reading is a lifelong voyage of self-discovery. I ea
 *   **主题演讲**
     It is a great privilege to stand here and share my thoughts on a companion we all **inevitably encounter on our journey of growth**: challenges.
 
+*   **分享物品**(42.)
+    I am incredibly honored to stand here and share a glimpse into the journey behind my piece, "The Clockwork Forest," which was privileged enough to receive the Best Creative Award at our School Art Festival.
+
+*   **分享事件**(37.)
+    I’d like to touch upon a prevailing phenomenon right within our classroom walls—the sight of our peers collapsing onto their desks for a slumber during the brief intervals.
+
 ### 4. 启事与新闻报道 (Notices & News Reports)
 
 校园内的功能性公文写作。核心是5W1H（谁、什么时候、在哪里、做什么、为什么）以及用词的高度精准凝练。
@@ -792,17 +798,24 @@ Ultimately, extracurricular reading is a lifelong voyage of self-discovery. I ea
 ## [2. “文章内容”分类](https://greenbeanpie.github.io/2026/05/02/english-writing-theme/)
 
 {% note primary%}
-语料在以上链接中。
+部分语料在以上链接中。
 {% endnote %}
 
 ### **① 中国传统文化、非遗与跨文化交流 (Traditional Culture & Cross-Cultural)**
-【序号】4, 14, 15, 24, 28, 32, 41, 42, 44, 48, 60, 61, 63, 66, 69, 71, 73, 74, 85, 89, 95, 97, 98, 108, 112, 114, 125, 134, 143, 160, 165, 167, 172
+    【序号】4, 14, 15, 24, 28, 32, 41, 42, 44, 48, 60, 61, 63, 66, 69, 71, 73, 74, 85, 89, 95, 97, 98, 108, 112, 114, 125, 134, 143, 160, 165, 167, 172
+
+*  **活动目的**
+
+1. Intended to immerse our youth in the enduring charm of traditional culture and weave it seamlessly into the fabric of modern campus life, this phenomenal event proved to be an overwhelming triumph.
+
+
+
 
 ### **② 现代科技、AI工具及对社会的影响 (Technology, AI & Modern Society)**
-【序号】34, 37, 45, 53, 55, 65, 72, 75, 76, 87, 88, 100, 105, 111, 117, 122, 130, 142, 157, 161, 163, 168, 171
+    【序号】34, 37, 45, 53, 55, 65, 72, 75, 76, 87, 88, 100, 105, 111, 117, 122, 130, 142, 157, 161, 163, 168, 171
 ### **③ 学习方法、课程设置与学业困境探讨 (Study Methods, Curriculum & Academic Issues)**
-【序号】2, 3, 7, 9, 10, 18, 36, 49, 52, 57, 64, 68, 70, 82, 94, 99, 103, 115, 131, 132, 133, 135, 144, 158
-*   **④ 劳动实践与生活技能 (Labor & Practical Skills)**
+    【序号】2, 3, 7, 9, 10, 18, 36, 49, 52, 57, 64, 68, 70, 82, 94, 99, 103, 115, 131, 132, 133, 135, 144, 158
+### **④ 劳动实践与生活技能 (Labor & Practical Skills)**
     【序号】5, 25, 29, 38, 104, 106, 109, 113, 118, 140, 151, 164, 170
 *   **⑤ 校园纪律、行为风气与道德规范 (School Discipline & Campus Culture)**
     【序号】27, 62, 126, 129, 136, 137, 138, 139, 147, 149, 152, 153
@@ -826,7 +839,73 @@ Ultimately, extracurricular reading is a lifelong voyage of self-discovery. I ea
 
 # 精选范文
 
-## **30. 25年12月金丽衢12校高三第一次联考英语试题-试卷**
+## **4. 25年11月湖北圆创高三上学期期中考**
+
+### 🌟 范文展示 (Sample Essay)
+
+**Unveiling the Charm of Heritage: A Spectacular Review of Our First-Ever Chinese Chic Bazaar**
+
+Last Friday, our campus witnessed an extraordinary cultural extravaganza—the highly-anticipated "Chinese Chic Bazaar". **Intended to immerse our youth in the enduring charm of traditional culture and weave it seamlessly into the fabric of modern campus life, this phenomenal event proved to be an overwhelming triumph.** 
+
+Stepping into the bustling square was akin to being magically teleported into a vibrant, moving scroll of ancient history. **Scattered across the square were scintillating stalls, intricately adorned with glowing crimson lanterns and elegant oil-paper umbrellas, springing up like bamboo shoots after a spring rain.** Rather than simply walking around, participants were treated to a feast of sensory delights. Clad in flowing *Hanfu*, elegant figures could be seen gliding gracefully among the crowds, their exquisite garments rustling to the rhythm of classical folk melodies remixed with modern electronic beats. 
+
+**Not only did the hands-on experiences—ranging from delicate paper-cutting and mesmerizing sugar-figure blowing to classic calligraphy—leave everyone marveling at the ingenuity of our ancestors, but they also breathed new life into fading traditions.** Had you been there, you would have seen students' eyes gleaming with immense fascination as they savored delectable local pastries while eagerly collecting stamps in their cultural passports.
+
+The enthusiastic response from the student body was unprecedented. "Never before had I expected cultural heritage to be so exceptionally hip!" exclaimed one ecstatic participant, perfectly echoing the consensus of the crowd. **The bazaar didn't merely serve as a passing campus fair; rather, it powerfully bridged the gap between our splendid past and the promising future, implanting a profound sense of national pride deep within our hearts.**
+
+---
+
+### 🔍 关键句子分析及替代表达 (Sentence Analysis & Alternatives)
+
+在上述范文中，我特意融入了分词作状语、完全倒装、部分倒装、虚拟语气等高级句型结构，并采用了大量生动的比喻与描摹描写（遵循了“Show, don't tell”原则）。以下是5个核心句子的深度剖析：
+
+#### 1. Intended to immerse our youth in the enduring charm of traditional culture and weave it seamlessly into the fabric of modern campus life, this phenomenal event proved to be an overwhelming triumph.
+* **分析**：
+  * **语法结构**：使用了过去分词短语作目的/原因状语，避免了繁冗的“The purpose of the event was to...”这一低级句式，句子显得非常紧凑。
+  * **用词亮点**：`immerse... in...`（使沉浸于），`enduring charm`（经久不衰的魅力）。此外，运用了隐喻手法 `weave it seamlessly into the fabric of...`（无缝交织进……的脉络/结构中），画面感极强。`overwhelming triumph`（巨大的成功）替换了平庸的 `great success`。
+* **替代表达**：
+  * **[进阶]**: Aiming to get students interested in traditional culture, this great event was a big success in our modern campus life. 
+  * **[高级]**: Driven by the ambitious goal of anchoring ancient traditions to our vibrant modern life, the bazaar blossomed into an unprecedented success. 
+  * **[巅峰]**: Designed as a cultural catalyst to captivate young minds, the bazaar harmoniously blended antiquity with modernity, resulting in a resoundingly triumphant festival.
+
+#### 2. Scattered across the square were scintillating stalls, intricately adorned with glowing crimson lanterns and elegant oil-paper umbrellas...
+* **分析**：
+  * **语法结构**：此处巧妙使用了**完全倒装**结构（表语短语 *Scattered across the square* 提前，谓语 *were* 在主语 *scintillating stalls* 前面），能够起强调地点并极大地丰富句式的多样性。
+  * **用词亮点**：使用了过去分词短语 `intricately adorned with`（被复杂精致地装饰着）作后置定语。词汇方面，选用了 `scintillating`（闪烁的、才华横溢的）、`crimson`（深红色的，比red更有画面感）等感官描摹词。
+* **替代表达**：
+  * **[进阶]**: There were many beautiful stalls in the square, and they were decorated with red lanterns and beautiful umbrellas.
+  * **[高级]**: Dotted around the campus were various eye-catching stalls, which boasted exquisite decorations ranging from crimson lanterns to oil-paper umbrellas.
+  * **[巅峰]**: Lying elegantly across the plaza were enchanting booths heavily festooned with luminous crimson lanterns, drawing in passers-by like magnets.
+
+#### 3. Clad in flowing *Hanfu*, elegant figures could be seen gliding gracefully among the crowds, their exquisite garments rustling to the rhythm of classical folk melodies remixed with modern electronic beats.
+* **分析**：
+  * **语法结构**：整句可谓是“Show, don't tell”的具体体现。`Clad in...` (身穿……) 过去分词作伴随状语。句末使用了**独立主格结构**（`their exquisite garments rustling to...`），用来交代与主要动作同时发生的情境，非常地道。
+  * **用词亮点**：放弃了走（`walk`）而用了滑行般优雅的动作 `gliding`，将人物气质描写得惟妙惟肖。`rustling` (沙沙作响) 生动写出了丝绸的摩擦声，提供了细腻的听觉细节。
+* **替代表达**：
+  * **[进阶]**: Students dressed in Hanfu were walking beautifully in the crowds, listening to modern and traditional music.
+  * **[高级]**: Arrayed in gorgeous Hanfu, enthusiastic teenagers navigated gracefully through the sea of people, stepping to the lively fusion of traditional and modern beats.
+  * **[巅峰]**: Bathed in the fusion of classical notes and electronic rhythms, participants swathed in flowing traditional garments fluttered like butterflies through the jubilant crowd.
+
+#### 4. Not only did the hands-on experiences leave everyone marveling at the ingenuity of our ancestors, but they also breathed new life into fading traditions.
+* **分析**：
+  * **语法结构**：使用了 `Not only... but also...` 引导的**部分倒装句**（将助动词 did 提前至主语前），加强语气并突出该市集的两层深远意义（惊叹过去与复兴现在）。`marveling at...` 作为宾补（leave sb doing sth）让表达更为连贯。
+  * **用词亮点**：地道习语 `breathe new life into...` 意思是“给……注入新的生机”；`ingenuity` 代替了 intelligence / wisdom，用来特别称赞先人们的“巧妙匠心”与创造力。
+* **替代表达**：
+  * **[进阶]**: These activities were so interesting that they made us admire our ancestors and saved old traditions.
+  * **[高级]**: So fascinating were the interactive activities that they ignited a profound awe for ancient wisdom while reviving dying traditional crafts.
+  * **[巅峰]**: Beyond striking awe into our hearts for the sheer ingenuity of antiquity, the immersive experiences functioned as a powerful vehicle to rejuvenate the slowly fading heritage.
+
+#### 5. The bazaar didn't merely serve as a passing campus fair; rather, it powerfully bridged the gap between our splendid past and the promising future, implanting a profound sense of national pride deep within our hearts.
+* **分析**：
+  * **语法结构**：采用了 `not merely... rather...` 的结构来进行观点上的升华转折；最后使用现在分词短语 `implanting...` 作自然而然的**结果状语**。
+  * **用词亮点**：使用了 `bridge the gap` 这一经典形象搭配；`implanting` (深深植入、根植) 动词的选取赋予了“民族自豪感”(national pride) 被稳固地留在心底的动感意象。这在谈论文化自信的话题中是非常抓人眼球的句式。
+* **替代表达**：
+  * **[进阶]**: The bazaar was not just an activity. It connected the past and future and made us very proud of our country.
+  * **[高级]**: Far from being a temporary amusement, this carnival forged an indelible link between yesterdays and tomorrows, filling everyone present with boundless patriotic pride.
+  * **[巅峰]**: Surpassing the conventional boundaries of a school festival, this extraordinary gathering acted as a temporal bridge uniting heritage with destiny, ultimately planting the unshakeable seeds of cultural confidence in us all.
+
+
+## **30. 25年12月金丽衢12校高三第一次联考英语试题**
 你校英文报的“Youth Voice”栏目正在举办关于“中学生课外阅读习惯”的讨论。请你写一篇短文投稿，内容包括：(1) 介绍你的阅读习惯(如阅读媒介、时间、频率等)；(2) 谈谈课外阅读给你带来的好处。
 
 ---

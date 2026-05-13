@@ -66,6 +66,9 @@ date: 2026-05-02 17:02:41
 * profound wisdom embedded in Chinese culture - 中华文化中的深刻智慧
 * the epitome of Chinese traditional art - 中国传统艺术的缩影
 * Extensive and profound - 博大精深
+* cultural extravaganza - 盛大庆典
+* powerfully bridged the gap between our splendid past and the promising future - 连接过去与未来
+* implanting a profound sense of national pride - 灌输民族自豪感
 
 ## 环境保护
 
