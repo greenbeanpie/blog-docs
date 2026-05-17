@@ -1,6 +1,7 @@
 ---
 title: 数学-概率论
 date: 2026-05-07 23:06:59
+password: "070915"
 tags:
     - 概率论
 categories:
