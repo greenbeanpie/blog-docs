@@ -20,7 +20,7 @@ tags:
 * **Discerning / Judicious** (有眼力的 / 明智的) -- a discerning critic / a judicious choice -- *Discerning* 指有鉴赏力； *Judicious* 指判断审慎且合理。
 * **Resonate with** (引起共鸣) -- resonate with the audience -- 形容某种观点、情感或声音使人产生回响。
 * **A flare of** ((情感)突发，闪现) -- a flare of anger/hope -- 形容某种强烈的情感突然迸发。
-
+* flair - 天赋
 
 ## 影响心理的抽象动作
 
@@ -49,7 +49,7 @@ tags:
 * **Envision** (展望，想象) -- envision a bright future -- 侧重于想象未来可能发生的好事或蓝图。
 * **Flatter oneself that** (自以为，自命不凡) -- He flattered himself that... -- 指某人自认为具备某种品质，通常非事实。
 * **Relish** (享受) -- **relish** the challenge
-* evoke the memory of - 唤起记忆
+* evoke a sense of - 引起...感觉
 
 ## 心理状态
 

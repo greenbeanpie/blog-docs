@@ -9,7 +9,7 @@ date: 2026-05-02 17:02:41
 
 <!-- 给AI的提示：这一部分仅用于整理适用范围仅限于特定主题的词汇表达 -->
 
-## 劳动与体育
+# Physical Education
 
 * dignity of work - 劳动尊严
 * sense of responsibility - 责任感
@@ -17,17 +17,47 @@ date: 2026-05-02 17:02:41
 * arena - 竞技场(形容体育比赛)
 * break a sweat - 大汗淋漓
 
-## 艺术
+# Art
 
-* auditory/multi-sensory feast - 多感官盛宴
+## Overall
+
 * aesthetic values - 美学价值
-* slip of scissors - 剪刀滑落(指失误)
-* flair - 天赋
+* An artistic blend of strength and grace - 刚劲与优雅的艺术结合
+* minute negative spaces - 微小的留白空间
+* materialize - 显现，呈现(形容制作完成)
+
+## Others
+
+* symmetrical beauty - 对称之美
+
+## Painting
+
 * portray vt. - 描绘
 * Exquisite brushwork - 精湛的笔法
-* An artistic blend of strength and grace - 刚劲与优雅的艺术结合
+* palette - 调色板
 
-## Learning/Comprehensive Education
+## Paper Cutting
+
+* With a few deft snips of the scissors - 随着几下灵巧的剪裁
+* snip away the superfluous edges - 剪去多余的边角
+* wielded the slender burin with pinpoint precision - 极其精准地挥动着小刻刀
+* blades **darted across** the surface - 刀刃在纸面上飞舞穿梭
+* slip of scissors - 剪刀滑落(指失误)
+
+## Pottery
+
+* coaxed the shapeless lump of clay into - 将不成形的泥团塑造成...
+* spin on the wheel - 在拉胚机上旋转
+* mold ... out of ... - 用...塑造...
+* coated with a sheer glaze - 涂上一层薄薄的釉
+
+## Embroidery
+
+* darted in and out of the glossy silk - 在富有光泽的丝绸上内外穿梭
+* stitch - v. 缝制; n. 针脚 - with countless dedicate stitches
+* trailing brilliant silken threads - 拖着绚丽的丝线
+
+# Learning/Comprehensive Education
 
 * comprehensive development - 全面发展(整体性)
 * holistic education/approach - 整体教育/方法(关联性)
@@ -48,8 +78,8 @@ date: 2026-05-02 17:02:41
 
 ## Prospect Decision/Dream Job
 
-- individuality/selfhood - 人的个体性(差异性)/主体性(意识性)
-- Existence precedes essence.([France]Jean-Paul Sartre) - 用在讨论自我定义、选择权、职业道路时，意即“人一开始是虚无的，你要通过自己自主的行动、选择去创造你的人生意义（essence）。
+* individuality/selfhood - 人的个体性(差异性)/主体性(意识性)
+* Existence precedes essence.([France]Jean-Paul Sartre) - 用在讨论自我定义、选择权、职业道路时，意即“人一开始是虚无的，你要通过自己自主的行动、选择去创造你的人生意义（essence）。
 
 ## 生活
 

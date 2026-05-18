@@ -40,3 +40,4 @@ tags:
 * dual-purpose mission - 多重使命
 * armed with - 装备
 * elaborate/orchestrate - 精心策划
+* auditory/multi-sensory feast - 多感官盛宴
