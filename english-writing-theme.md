@@ -7,7 +7,9 @@ categories:
 date: 2026-05-02 17:02:41
 ---
 
-<!-- 给AI的提示：这一部分仅用于整理适用范围仅限于特定主题的词汇表达 -->
+{% note warning%}
+有人认为部分高考改卷老师不一定认识很少见的单词，因此使用单词时请谨慎考虑。
+{% endnote%}
 
 # Physical Education
 
@@ -17,7 +19,7 @@ date: 2026-05-02 17:02:41
 * arena - 竞技场(形容体育比赛)
 * break a sweat - 大汗淋漓
 
-# Art
+# Aesthetics
 
 ## Overall
 
@@ -25,6 +27,16 @@ date: 2026-05-02 17:02:41
 * An artistic blend of strength and grace - 刚劲与优雅的艺术结合
 * minute negative spaces - 微小的留白空间
 * materialize - 显现，呈现(形容制作完成)
+
+# Styles
+
+*   **Avant-garde** (adj./n.) [ˌævɑ̃ːˈɡɑːrd]：先锋的，前卫的。
+    *   *搭配/造句*：The **avant-garde** exhibition **pushes the boundaries** of conventional aesthetics. (这场先锋展览打破了传统审美的边界。)
+*   **Abstract** (adj.)：抽象的（通常与具体的 concrete / realistic 相对）。
+*   **Surreal / Dreamlike** (adj.)：超现实的 / 宛若梦境的。
+    *   *搭配/造句*：By blending the bizarre with the everyday, the artist creates a **surreal landscape** that challenges human perception. (通过将怪诞与日常结合，艺术家创造了一种挑战人类感知的超现实图景。)
+*   **Minimalist(absolute simplicity)** (adj.)：极简主义的。
+*   **Hyper-realistic(breathtakingly detailed)** (adj.)：超写实的（像照片一样逼真）。
 
 ## Others
 
@@ -34,7 +46,17 @@ date: 2026-05-02 17:02:41
 
 * portray vt. - 描绘
 * Exquisite brushwork - 精湛的笔法
-* palette - 调色板
+* Palette - 调色板/配色
+  > *   **A vibrant/bold palette** (明艳鲜活的大胆配色) 
+  > *   **A muted/somber palette** (柔和阴郁的配色)
+* Hue - 色彩
+* Pigment - 颜料
+* Saturation - 饱和度
+* Vigorous / bold brushstrokes：遒劲/狂放的笔触。
+*   **Juxtapose... with... / Juxtaposition** (v./n.) [ˌdʒʌkstəpəˈzɪʃn]：将...与...并列（尤指产生强烈对比）。
+*   **Chiaroscuro / interplay of light and shadow**：光影交错（前者为专业的美术明暗对照法，后置词更为通用）。
+    *   *语料*：The striking **juxtaposition of light and dark** acts as a visual metaphor for the battle between hope and despair. (明暗之间强烈的并置/反差，隐喻着希望与绝望的交锋。)
+  
 
 ## Paper Cutting
 

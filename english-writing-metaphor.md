@@ -7,5 +7,6 @@ tags:
     - 写作
 ---
 
-* battlefield - 战场 $\rightarrow$ 形容斗争激烈的场所
-* a cocktail of - 鸡尾酒 $\rightarrow$ 混合(mix)
+* battlefield - 战场 -> 形容斗争激烈的场所
+* a cocktail of - 鸡尾酒 -> 混合(mix)
+* inject kinetic energy into - 注入动能 -> 使具有活力
