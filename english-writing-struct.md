@@ -20,6 +20,7 @@ tags:
 
 ## 事件
 
+* **Preliminary** (初步的) -- preliminary measure -- 指在更重要、更正式的事情之前发生的铺垫性行为
 * **Inaugurate** (开创，开始施行) -- inaugurate a new era -- 用于就职或重大项目的启动仪式
 * **Grapple with** (努力解决) -- grapple with a problem -- 强调在应对困难问题时的挣扎过程
 * **Succinct** (简洁的，简明的) -- The book gives an admirably succinct account of the technology and its history. -- 表达精准、不啰嗦
@@ -35,9 +36,18 @@ tags:
 
 * inaugurate - 正式开始/开创(约等于start)
 
-# 文章结构
+## 常见替换词
 
-## 
+* important(重要)
+    > be of paramount significance(具有重大意义)
+    > imperative(迫切的)
+    > indispensable(不可或缺的)
+* reduce(减少)
+    > curb (抑制)：Stringent regulations are needed to curb industrial effluent discharge.
+    > slash (大幅削减)：To meet the net-zero target, we must slash our reliance on fossil fuels.
+    > phase out (逐步淘汰)：Many countries have pledged to phase out single-use plastics within the decade.
+
+# 文章结构
 
 ## 缺陷
 
@@ -45,16 +55,28 @@ tags:
 
 ## 面对问题
 
-- **yielding to (fear)**：向(恐惧)妥协
-- **plunge into the battle**：毅然投身于战斗之中
-- **steady my trembling nerves**：镇定我紧张的情绪
-- **scouring through piles of references**：翻阅海量文献
-- **savor the sweetness of the ultimate triumph.**：享受最后成功的喜悦
-- **storms of difficulties loom on the horizon**：困难的风暴即将来临
-- **cower in the shadows**：躲在暗处瑟瑟发抖
+* **a ticking time bomb**：定时炸弹
+* **yielding to (fear)**：向(恐惧)妥协
+* **plunge into the battle**：毅然投身于战斗之中
+* **steady my trembling nerves**：镇定我紧张的情绪
+* **scouring through piles of references**：翻阅海量文献
+* **savor the sweetness of the ultimate triumph.**：享受最后成功的喜悦
+* **storms of difficulties loom on the horizon**：困难的风暴即将来临
+* **cower in the shadows**：躲在暗处瑟瑟发抖
+
+## 原因分析
+
+* On a macro policy level... whereas on an individual scale... : 在宏观政策层面...而在个人层面上...
+
+## 解决问题
+
+* **Mitigate risks**: 缓解风险
+* **phase out**：逐渐淘汰
 
 ## 行动
 
+* joint effort - 共同努力
+* stewardship - 环境主人翁意识
 * champion v. - 倡导
 * strike a sensible balance between/by - 在二者之间达成平衡
 

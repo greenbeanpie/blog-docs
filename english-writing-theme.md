@@ -8,7 +8,7 @@ date: 2026-05-02 17:02:41
 ---
 
 {% note warning%}
-有人认为部分高考改卷老师不一定认识很少见的单词，因此使用单词时请谨慎考虑。
+据反映部分高考改卷老师不一定认识很少见的单词，因此使用单词时请谨慎考虑。
 {% endnote%}
 
 # Physical Education
@@ -28,7 +28,9 @@ date: 2026-05-02 17:02:41
 * minute negative spaces - 微小的留白空间
 * materialize - 显现，呈现(形容制作完成)
 
-# Styles
+## Visual Art
+
+### Styles
 
 *   **Avant-garde** (adj./n.) [ˌævɑ̃ːˈɡɑːrd]：先锋的，前卫的。
     *   *搭配/造句*：The **avant-garde** exhibition **pushes the boundaries** of conventional aesthetics. (这场先锋展览打破了传统审美的边界。)
@@ -37,15 +39,13 @@ date: 2026-05-02 17:02:41
     *   *搭配/造句*：By blending the bizarre with the everyday, the artist creates a **surreal landscape** that challenges human perception. (通过将怪诞与日常结合，艺术家创造了一种挑战人类感知的超现实图景。)
 *   **Minimalist(absolute simplicity)** (adj.)：极简主义的。
 *   **Hyper-realistic(breathtakingly detailed)** (adj.)：超写实的（像照片一样逼真）。
-
-## Others
-
-* symmetrical beauty - 对称之美
+*   **Impressionism** (n.): 印象主义/印象派
 
 ## Painting
 
-* portray vt. - 描绘
-* Exquisite brushwork - 精湛的笔法
+* canvas(n.): 画布
+* portray(vt.): 描绘
+* Exquisite/loose brushwork - 精湛/自由的笔法
 * Palette - 调色板/配色
   > *   **A vibrant/bold palette** (明艳鲜活的大胆配色) 
   > *   **A muted/somber palette** (柔和阴郁的配色)
@@ -53,12 +53,29 @@ date: 2026-05-02 17:02:41
 * Pigment - 颜料
 * Saturation - 饱和度
 * Vigorous / bold brushstrokes：遒劲/狂放的笔触。
+* Luminous / Ethereal: (adj.) 发光的 / 空灵的，超凡脱俗的
+* Ink-wash - 水墨画
+* **Wield the brush with consummate skill** 娴熟地挥洒画笔。
+* **Trace the delicate contours of...** 勾勒出……细腻的轮廓。
+* **With a few deft strokes** 寥寥几笔娴熟的线条（极适合描写熟练度）。
+* **Blend the pigments seamlessly** 将颜料天衣无缝地融合在一起。
+* **Bring the static image to life** 让静止的画面跃然纸上。
+* **A symphony of vibrant hues and muted tones** 鲜艳色彩与暗淡色调的交响乐（形容色彩搭配极佳）。
+* **The subtle play of light and shadow** 光影之间微妙的互动（即明暗对比）。
+* **Imbue the canvas with a warm, golden glow** 让画布浸染上温暖的金黄色光芒。
+* **Exude an aura of nostalgic melancholy** 流露出一种怀旧而忧伤的氛围。
+*   **Spatial harmony / depth**: (n.) 空间和谐感 / 景深
 *   **Juxtapose... with... / Juxtaposition** (v./n.) [ˌdʒʌkstəpəˈzɪʃn]：将...与...并列（尤指产生强烈对比）。
 *   **Chiaroscuro / interplay of light and shadow**：光影交错（前者为专业的美术明暗对照法，后置词更为通用）。
     *   *语料*：The striking **juxtaposition of light and dark** acts as a visual metaphor for the battle between hope and despair. (明暗之间强烈的并置/反差，隐喻着希望与绝望的交锋。)
-  
 
-## Paper Cutting
+## Others
+
+* symmetrical beauty - 对称之美
+
+## Handicraft
+
+### Paper Cutting
 
 * With a few deft snips of the scissors - 随着几下灵巧的剪裁
 * snip away the superfluous edges - 剪去多余的边角
@@ -66,18 +83,45 @@ date: 2026-05-02 17:02:41
 * blades **darted across** the surface - 刀刃在纸面上飞舞穿梭
 * slip of scissors - 剪刀滑落(指失误)
 
-## Pottery
+### Pottery
 
 * coaxed the shapeless lump of clay into - 将不成形的泥团塑造成...
 * spin on the wheel - 在拉胚机上旋转
 * mold ... out of ... - 用...塑造...
 * coated with a sheer glaze - 涂上一层薄薄的釉
 
-## Embroidery
+### Embroidery
 
 * darted in and out of the glossy silk - 在富有光泽的丝绸上内外穿梭
 * stitch - v. 缝制; n. 针脚 - with countless dedicate stitches
 * trailing brilliant silken threads - 拖着绚丽的丝线
+
+## Music
+
+### Style
+*   **Mellifluous** (adj.) 宛如蜂蜜般甜美流畅的
+    *   *e.g. A mellifluous voice/melody (甜润的嗓音/流畅动听的旋律)*
+*   **Dulcet** (adj.) 悦耳温柔的（常接 tones）
+    *   *e.g. I was awakened by the dulcet tones of the piano. (我被悦耳温柔的钢琴声唤醒。)*
+*   **Euphonious** (adj.) 声音和谐的，入耳的（相对的反义词是 Cacophonous 刺耳的）
+    *   *e.g. The choir produced a euphonious symphony. (合唱团演绎了一曲和谐悦耳的交响乐。)*
+*   **Ethereal** (adj.) 空灵的，飘渺的，超凡脱俗的
+    *   *e.g. The singer's ethereal voice transported us to another dimension. (歌手空灵的嗓音将我们带入了另一个维度。)*
+
+### Emotion
+*   **Haunting** (adj.) 令人萦绕心头的，难以忘怀的（常用于带有悲剧美或伤感美的音乐）
+    *   *e.g. A hauntingly beautiful melody (美得萦绕心头、挥之不去的旋律)*
+*   **Plaintive** (adj.) 哀怨的，凄凉的
+    *   *e.g. The plaintive sound of the violin evokes a sense of deep nostalgia. (小提琴凄婉的琴声唤起了深深的怀旧之情。)*
+*   **Soul-stirring** (adj.) 直击灵魂的，激动人心的
+    *   *e.g. A soul-stirring performance that left the audience in tears. (一场令人泪目的、直击灵魂的演出。)*
+
+### Sound Effect
+*   **Sonorous** (adj.) 浑厚洪亮的（尤指低音）
+    *   *e.g. The sonorous chords of the cello (大提琴浑厚有力的和弦)*
+*   **Deafening / Thunderous** (adj.) 震耳欲聋的 / 如雷霆般的
+*   **Resonant** (adj.) 引起共鸣的，回响缭绕的
+
 
 # Learning/Comprehensive Education
 
@@ -103,16 +147,15 @@ date: 2026-05-02 17:02:41
 * individuality/selfhood - 人的个体性(差异性)/主体性(意识性)
 * Existence precedes essence.([France]Jean-Paul Sartre) - 用在讨论自我定义、选择权、职业道路时，意即“人一开始是虚无的，你要通过自己自主的行动、选择去创造你的人生意义（essence）。
 
-## 生活
+## Harmonious Relationship/Social Interaction
 
 * an indispensable part of life - 生活不可或缺的一部分
 * incivility n. - 不文明行为
 * self-censorship - 自我审查
 * fleeting yet beautiful moment - 转瞬即逝的美好时光
 
-## 传统与文化
+# Traditional Culture/Cultural Heritage
 
-* ink-wash - 水墨画
 * mutual understanding - 相互理解
 * auspicious atmosphere - 吉祥的气氛
 * profound wisdom embedded in Chinese culture - 中华文化中的深刻智慧
@@ -122,14 +165,27 @@ date: 2026-05-02 17:02:41
 * powerfully bridged the gap between our splendid past and the promising future - 连接过去与未来
 * implanting a profound sense of national pride - 灌输民族自豪感
 
-## 环境保护
+# Human and Society
 
-* joint effort
-* environmental stewardship - 环境主人翁意识
+## Environmental Protection
+
+* environmental degradation - 环境退化
+* deforestation - 森林砍伐
+* afforestation / reforestation - 植树造林/重新造林
+* circular economy - 循环经济
+* carbon neutrality - 碳中和
+* deplete natural resources - 耗尽自然资源
+* toxic waste - 有毒废弃物
+* Municipal solid waste: 城市固体废弃物
 * bio-degradable adj. - 可降解的
 * discarded wrapper - 丢弃的包装纸
+    > Dispose of(规范处置物体): The factory was heavily fined for failing to dispose of toxic chemical waste safely.
+    > discard(直接/随意丢弃): She decided to discard her worn-out shoes.
+* Aquatic/atmospheric contamination - 水体/空气污染
+* decompose/biodegrade - 讲解
+* Soil erosion - 土地侵蚀
 
-## 科技与时代困局
+## Technology and the Era(Problems)
 
 * satirical paradox - 讽刺的悖论（自相矛盾的情况）
 * the illusion of choice - 选择的幻象
@@ -143,7 +199,6 @@ date: 2026-05-02 17:02:41
 * **Technological Mediated** (adj.): 技术中介的 (人与世界的关系不再直接，而是通过屏幕/算法)
 * authenticity - 本真性
 * alienation - 异化 - 用于指现代人的心理状态，通常表现为无力感（命运被外界掌控）、无意义感（感觉工作与学习无意义）和自我疏离（为了迎合社会期待而戴着面具生活）。
-
 
 ### Machine and Artificial Intelligence
 
@@ -178,3 +233,35 @@ date: 2026-05-02 17:02:41
 * anonymity n. - 匿名
 * digital etiquette - 数字礼仪
 * digital footprint - 数字足迹
+
+# National Security/Cyber Security
+
+## Fundemental Concept
+
+* sovereignty - 国家主权
+* territorial integrity - 领土完整
+* national interest - 国家利益
+
+## Risk
+
+* Potential vulnerabilities - 潜在漏洞
+* **Inadvertently trigger...** (不经意间引发……) — *Oversimplified defense policies might inadvertently trigger regional arms races.*
+* Breach security regulations/firewall: 违反安全条例/攻破防火墙
+    > a clear breach of: 明显的违反
+
+
+## Threat
+
+* Be in grave peril - 处于极度危险之中
+* Cyber intrusion/incursion - 网络入侵
+* Espionage and sabotage - 间谍活动与破坏行为
+* **In tandem with...** (与……协同/同时发生) — *Internal instabilities, in tandem with external pressures, exacerbated the crisis.*
+
+## Measures
+
+* Deterrence: 威慑
+* Foster a holistic approach to national security: 树立总体国家安全观
+* Preemptive strike: 先发制人打击
+* Thwart / Deter potential threats: 挫败/威慑潜在威胁
+* Withstand external shocks: 抵御外部冲击
+* **be incumbent upon...**(义不容辞/有责任去做......): *It is incumbent upon international communities to forge alliances and share intelligence to combat transnational terrorism.*
