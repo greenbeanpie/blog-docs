@@ -966,7 +966,7 @@ Ultimately, extracurricular reading is a lifelong voyage of self-discovery. I ea
 
 ---
 
-**这类文章的难点在于如何将“课本人物”这种较为刻板的素材，转化为具有“个人感染力”的情感表达。为了拿到高分，不能仅仅地复述人物事迹，而应重点挖掘**“精神品质” $\rightarrow$ “心理映射” $\rightarrow$ “行为改变”**这一逻辑链条。
+**这类文章的难点在于如何将“课本人物”这种较为刻板的素材，转化为具有“个人感染力”的情感表达。为了拿到高分，不能仅仅地复述人物事迹，而应重点挖掘**“精神品质” -> “心理映射” -> “行为改变”**这一逻辑链条。
 
 ---
 
@@ -987,7 +987,7 @@ Helen Keller taught me that the greatest disability is not the loss of sight or 
 ###  深度解析与教学辅助
 
 #### 1. 写作策略分析
-*   **结构布局**：采用了“人物精神 $\rightarrow$ 个人困境 $\rightarrow$ 精神引导 $\rightarrow$ 结果提升 $\rightarrow$ 升华主题”的五段式结构。
+*   **结构布局**：采用了“人物精神 -> 个人困境 -> 精神引导 -> 结果提升 -> 升华主题”的五段式结构。
 *   **情感递进**：从对人物的“崇拜”转向对自己“脆弱”的剖析，最后完成“成长”的闭环，使文章具有真实的人文关怀而非死板的赞美。
 *   **细节描写 (Show, don't tell)**：未使用 "I was sad"，而使用了 "adrift in a sea of despondency"（在绝望的海洋中漂流）；未使用 "I worked hard"，而使用了 "dissect my errors with renewed vigor"（以新的活力剖析错误）。
 

@@ -20,6 +20,7 @@ tags:
 
 ## 事件
 
+* A prerequisite for -- ...的前提条件
 * **Preliminary** (初步的) -- preliminary measure -- 指在更重要、更正式的事情之前发生的铺垫性行为
 * **Inaugurate** (开创，开始施行) -- inaugurate a new era -- 用于就职或重大项目的启动仪式
 * **Grapple with** (努力解决) -- grapple with a problem -- 强调在应对困难问题时的挣扎过程
@@ -39,13 +40,31 @@ tags:
 ## 常见替换词
 
 * important(重要)
-    > be of paramount significance(具有重大意义)
-    > imperative(迫切的)
-    > indispensable(不可或缺的)
+{% note success%}
+be of paramount significance(具有重大意义)
+imperative(迫切的)
+indispensable(不可或缺的)
+{% endnote%}
+
 * reduce(减少)
-    > curb (抑制)：Stringent regulations are needed to curb industrial effluent discharge.
-    > slash (大幅削减)：To meet the net-zero target, we must slash our reliance on fossil fuels.
-    > phase out (逐步淘汰)：Many countries have pledged to phase out single-use plastics within the decade.
+{% note success%}
+curb (抑制)：Stringent regulations are needed to curb industrial effluent discharge.
+slash (大幅削减)：To meet the net-zero target, we must slash our reliance on fossil fuels.
+phase out (逐步淘汰)：Many countries have pledged to phase out single-use plastics within the decade.
+{% endnote%}
+* optimize(优化)
+{% note success%}
+Rationalize (使合理化、优化资源配置)
+Streamline (精简、使高效化 — 侧重于去掉低效部分)
+Reconfigure (重新配置、重构)
+Upgrade (升级)
+{% endnote%}
+* develop
+{% note success%}
+foster
+propel
+revitalize
+{% endnote%}
 
 # 文章结构
 
@@ -75,19 +94,26 @@ tags:
 
 ## 行动
 
-* joint effort - 共同努力
+* resort to - 诉诸，指别无选择后的无奈之举
+* The success hinges upon collective efforts - 成功取决于多方共同努力
 * stewardship - 环境主人翁意识
 * champion v. - 倡导
 * strike a sensible balance between/by - 在二者之间达成平衡
 
 ## 辩证讨论
 
+* Granted, we must not conflate material wealth with...（诚然，我们绝不能将物质财富与……混为一谈）
+* **Lest it should result in...**（唯恐/以免导致……） — *Modernization of agriculture must be carefully managed, **lest it** should result in the erosion of traditional cultural identity.*
 * sift through the noise and extract the essence - 去其糟粕，取其精华
 * the symbiotic relationship between - ...之间的共生关系
 
 ## 总结
 
 * Ultimately, it boils down to (our self discipline) - 最终归结于
+
+## 成果
+
+* Yield fruitful results - 取得丰硕成果
 
 ## 启示
 
@@ -100,7 +126,6 @@ tags:
 * **Thaw** (融化 / 缓和) -- The ice began to **thaw** -- 既可指冰雪融化，也可指气氛或关系的转好。
 * **Tumble** (醒悟) -- **Tumble** to the truth -- 用于抽象的“领悟”。
 * **Conduit** (渠道，媒介) -- a conduit for communication/information -- 指连接两者的路径或媒介。
-
 * holistic view - 全局视角
 * long-term vision - 长远视野
 

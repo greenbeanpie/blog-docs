@@ -7,17 +7,37 @@ categories:
 date: 2026-05-02 17:02:41
 ---
 
-{% note warning%}
+{% note danger%}
 据反映部分高考改卷老师不一定认识很少见的单词，因此使用单词时请谨慎考虑。
 {% endnote%}
-
-# Physical Education
-
-* dignity of work - 劳动尊严
-* sense of responsibility - 责任感
-* perseverance/resilience - 坚持/韧性
-* arena - 竞技场(形容体育比赛)
-* break a sweat - 大汗淋漓
+{% note warning%}
+本文件根据普通高中英语课程标准2025年修订版课程内容中主题内容要求部分编写。
+根据实际情况，以下内容暂未加入：
+对社会有突出贡献的人物
+法律常识与法治意识
+社会热点问题
+重大政治历史事件、文化渊源
+自然遗产保护
+人与动植物
+自然科学研究成果
+地球与宇宙奥秘
+大部分文学作品
+建筑领域的代表性作品与人物
+影视的境况及其发展
+大型体育赛事
+{% endnote%}
+{% note info%}
+以下内容计划在未来加入：
+健康的生活方式，优秀平行，公民义务和社会责任，生命安全（自然灾害与防范）
+认识自我
+终身学习
+劳动实践与工匠精神
+创新与创业意识
+良好的人际关系与社会交往
+公益事业与志愿服务
+跨文化沟通
+日常体育活动、体育精神
+{% endnote%}
 
 # Aesthetics
 
@@ -123,7 +143,38 @@ date: 2026-05-02 17:02:41
 *   **Resonant** (adj.) 引起共鸣的，回响缭绕的
 
 
-# Learning/Comprehensive Education
+# Personal Development
+
+## Life Meaning
+
+{% note warning%}
+这一部分语料内容较长，写作时请关注你的应用文字数。
+{% endnote %}
+
+* *The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. (Ralph Waldo Emerson)* (人生的目的不是为了快乐，而是为了变得有用、高尚、富有同情心，为了让你的一生不仅活过，而且活出改变。)
+
+**适用场景**：反驳享乐主义，论述个人价值与社会责任的统一。
+
+* *Life is never made unbearable by circumstances, but only by lack of meaning and purpose. (Viktor Frankl)* (让生命变得无法忍受的从来不是环境，而是缺乏意义和目标。)
+
+**适用场景**：探讨逆境、挫折对人的影响，强调信念与目标的力量。
+
+* *The unexamined life is not worth living.(Socrates)* (未经审视的人生是不值得过的。)
+
+**适用场景**：论述当代人不能盲目追求物质，而应停下来思考精神诉求
+
+* *Existence precedes essence.([France]Jean-Paul Sartre)* - 用在讨论自我定义、选择权、职业道路时，意即“人一开始是虚无的，你要通过自己自主的行动、选择去创造你的人生意义（essence）。
+
+**适用场景**：论述人的价值是由自己创造的。
+
+> 相似内容：
+> *The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.(Albert Camus)* (迈向高处的奋斗本身就足以充实一个人的心灵。人们必须想象，西西弗斯是快乐的。)
+
+* *Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.(Jean-Paul Sartre)* (人类被定罪为自由的；因为一旦被抛入这个世界，他就要对他所做的一切负责。) - 即 absolute freedom
+
+**适用场景**：论述真正的自由不是为所欲为，而是敢于为自己的所有选择承担绝对责任。
+
+## Learning/Comprehensive Education
 
 * comprehensive development - 全面发展(整体性)
 * holistic education/approach - 整体教育/方法(关联性)
@@ -142,10 +193,43 @@ date: 2026-05-02 17:02:41
 * **grueling process of stepping out of my comfort zone**: 迈出舒适区的煎熬历程
 * **Confronted with exceptionally eloquent opponents**: 面对异常雄辩的对手
 
-## Prospect Decision/Dream Job
+## Physical Education
 
+* dignity of work - 劳动尊严
+* sense of responsibility - 责任感
+* perseverance/resilience - 坚持/韧性
+* arena - 竞技场(形容体育比赛)
+* break a sweat - 大汗淋漓
+
+
+## Job
+
+### Capability/Skill
+
+* skill redundancy - 技能过时
+* aptitude - 天资
+* upskilling / reskilling - 技能提升/重塑
+* transferable skills - 可迁移技能
+
+### Society trend
+
+* technological upheaval - 技术变革
+* telecommute - 远程办公
+* portfolio career - 组合式职业（同时从事多种有偿工作）
+
+### CS Profession
+
+* Digital frontier - 数字前沿
+* Acquire modern tech stacks - 学习现代技术栈
+* Optimize algorithmic efficiency - 优化算法效率
+* Highly volatile - 高度易变
+
+### Prospect Decision/Dream Job
+
+* career orientation - 职业取向
+* inherent motivation - 内在驱动力
 * individuality/selfhood - 人的个体性(差异性)/主体性(意识性)
-* Existence precedes essence.([France]Jean-Paul Sartre) - 用在讨论自我定义、选择权、职业道路时，意即“人一开始是虚无的，你要通过自己自主的行动、选择去创造你的人生意义（essence）。
+* Align personal values with career choices：将个人价值观与职业选择相契合
 
 ## Harmonious Relationship/Social Interaction
 
@@ -185,6 +269,49 @@ date: 2026-05-02 17:02:41
 * decompose/biodegrade - 讲解
 * Soil erosion - 土地侵蚀
 
+## Society Development
+
+### Globalization
+
+* **Transnational**：跨国的
+* **interdependence**：相互依存
+* **Multilateral collaboration**：多边合作
+* **resort to economic sanctions**：诉诸经济制裁
+* **No nation can remain immune to...**（没有哪个国家可以对……独善其身/免疫）
+* **Bound by a shared destiny**（被共同的命运紧密相连）
+* **Transcend geopolitical rivalries**（超越地缘政治竞争/对抗）
+* **Forge a global consensus on...**（就……达成全球共识）
+* **Champion the principle of common but differentiated responsibilities**（捍卫“共同但有区别的责任”原则）
+* **A prerequisite for the preservation of human civilization**（维护人类文明的前提条件）
+* **In the final analysis, unilateralism yields no victors...**（归根结底，单边主义没有赢家……）
+* **zero-sum game / positive-sum game**（零和博弈 / 正和博弈）
+
+### Crucial History
+
+* **the Enlightenment**：启蒙运动
+* **Civil Rights Act of 1964**：1964民权法案
+* **Inextricably intertwined**：紧密交织
+
+### Social Justice
+
+* **Leverage cutting-edge technologies** 利用尖端科技
+* **Economic disparity**：经济差距
+* **Realize common prosperity**：实现共同富裕
+* **Breath new life into stagnant economies**：为停滞的经济注入新生命
+* **Brain drain / Talent shortage**：人才流失 / 人才短缺
+* **Targeted investment**：定向投资
+* **The bedrock of national development**：国家发展的基石
+
+### Agricultural Development/Rural Revitalization
+
+* **monoculture farming**：单一种植(虽高效却破坏生物多样性，易致病虫害)
+* **Rationalize the agrarian composition/Diversify the agricultural sector**：合理化农业结构/实现农业产业多元化
+* **Bridge/eliminate the urban-rural divide / gap**：缩小/消除城乡差距
+* **Reverse rural exodus**：逆转乡村人口外流
+* **Leapfrog traditional developmental stages**[解决问题]：跨越传统发展阶段
+* **E-commerce for agricultural products**：农产品电商
+* In stark contrast to metropolitan areas, rural hinterlands often face a deficit in medical resources.
+
 ## Technology and the Era(Problems)
 
 * satirical paradox - 讽刺的悖论（自相矛盾的情况）
@@ -212,7 +339,7 @@ date: 2026-05-02 17:02:41
 *   **Conspicuous Consumption** (n.): 炫耀性消费 (为了社会地位而非实际需求而购买)
 *   **Manufactured Desire** (n.): 被制造的欲望 (欲望并非来自内心，而是由广告塑造)
 *   **Commodity Fetishism** (n.): 商品拜物教 (过度赋予物体某种精神权力)
-*   **The Hedonic Treadmill** (n.): 快感跑步机 (追求消费带来的快感 $\rightarrow$ 很快适应 $\rightarrow$ 追求更高快感，循环往复)
+*   **The Hedonic Treadmill** (n.): 快感跑步机 (追求消费带来的快感 -> 很快适应 -> 追求更高快感，循环往复)
 *   **Homogenization** (n.): 同质化 (人们为了符合某种“审美”或“标准”而变得一样)
 
 ### Atomic Individual
