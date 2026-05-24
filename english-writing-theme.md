@@ -28,15 +28,14 @@ date: 2026-05-02 17:02:41
 {% endnote%}
 {% note info%}
 以下内容计划在未来加入：
-健康的生活方式，优秀平行，公民义务和社会责任，生命安全（自然灾害与防范）
+健康的生活方式，优秀品行，公民义务和社会责任，生命安全（自然灾害与防范）
 认识自我
 终身学习
-劳动实践与工匠精神
+<!-- 劳动实践与工匠精神 -->
 创新与创业意识
 良好的人际关系与社会交往
 公益事业与志愿服务
 跨文化沟通
-日常体育活动、体育精神
 {% endnote%}
 
 # Aesthetics
@@ -47,6 +46,7 @@ date: 2026-05-02 17:02:41
 * An artistic blend of strength and grace - 刚劲与优雅的艺术结合
 * minute negative spaces - 微小的留白空间
 * materialize - 显现，呈现(形容制作完成)
+* symmetrical beauty - 对称之美
 
 ## Visual Art
 
@@ -88,10 +88,6 @@ date: 2026-05-02 17:02:41
 *   **Juxtapose... with... / Juxtaposition** (v./n.) [ˌdʒʌkstəpəˈzɪʃn]：将...与...并列（尤指产生强烈对比）。
 *   **Chiaroscuro / interplay of light and shadow**：光影交错（前者为专业的美术明暗对照法，后置词更为通用）。
     *   *语料*：The striking **juxtaposition of light and dark** acts as a visual metaphor for the battle between hope and despair. (明暗之间强烈的并置/反差，隐喻着希望与绝望的交锋。)
-
-## Others
-
-* symmetrical beauty - 对称之美
 
 ## Handicraft
 
@@ -192,15 +188,39 @@ date: 2026-05-02 17:02:41
 * **burning the midnight oil**: 挑灯夜战
 * **grueling process of stepping out of my comfort zone**: 迈出舒适区的煎熬历程
 * **Confronted with exceptionally eloquent opponents**: 面对异常雄辩的对手
+* dwell in an ivory tower: 两耳不闻窗外事
 
 ## Physical Education
 
-* dignity of work - 劳动尊严
-* sense of responsibility - 责任感
-* perseverance/resilience - 坚持/韧性
 * arena - 竞技场(形容体育比赛)
 * break a sweat - 大汗淋漓
+* Athletic pursuits: 体育运动
+* Physical exertion: 体力消耗
+* Robust: 强壮的
+* Vent negative emotions: 发泄负面情绪
+* A sedentary lifestyle: 久坐的生活方式
+* Aerobic exercise: 有氧运动
+* Cardiovascular health: 心血管健康
+* Enhance cognitive function: 增强认知能力
+* Relieve chronic fatigue: 缓解慢性疲劳
+* On a psysiological level: 在生理层面上
+* Extend far beyond the binary of winning and losing: 远非输赢的二元对立所能衡量
+* Uphold the integrity of the game: 捍卫比赛的公正
+* sportsmanship/athletic ethos: 体育精神
+* concede defeat graciously: 优雅认输
+* on-field misconduct: 赛场违纪
+> A crucible for the forging of an indomitable will: 淬炼不屈意志的熔炉
 
+## Labor Education
+
+* Manual work/Blue-collar endeavors: 体力劳动/蓝领工作
+* Assiduous/Conscientious: 刻苦/认真负责
+* Uphold the inherent dignity of labor: 维护劳动固有的尊严
+* Pragmatic engagement: 务实参与
+* Arduous / Grueling / Tedious: 艰辛的/令人疲惫的/乏味的
+* Bridge the chasm between theoretical knowledge and pragmatic application: 桥接理论知识与实际应用之间的鸿沟
+* sense of responsibility: 责任感
+* perseverance/resilience: 坚持/韧性
 
 ## Job
 
@@ -250,6 +270,8 @@ date: 2026-05-02 17:02:41
 * implanting a profound sense of national pride - 灌输民族自豪感
 
 # Human and Society
+
+* Act as a powerful catalyst for social cohesion: 充当增强社会凝聚力的强效催化剂
 
 ## Environmental Protection
 

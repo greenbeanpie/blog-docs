@@ -85,20 +85,20 @@ revitalize
 
 ## 原因分析
 
-* On a macro policy level... whereas on an individual scale... : 在宏观政策层面...而在个人层面上...
+* On a macro policy level... concurrently on an individual scale... : 在宏观政策层面...与此同时，在个人层面上...
+* necessitate - 使成为必然
 
-## 解决问题
+
+## 解决问题/行动
 
 * **Mitigate risks**: 缓解风险
 * **phase out**：逐渐淘汰
-
-## 行动
-
 * resort to - 诉诸，指别无选择后的无奈之举
 * The success hinges upon collective efforts - 成功取决于多方共同努力
 * stewardship - 环境主人翁意识
 * champion v. - 倡导
 * strike a sensible balance between/by - 在二者之间达成平衡
+* Serve as an effective Countermeasure against - 作为对抗...的有效手段
 
 ## 辩证讨论
 
@@ -106,14 +106,17 @@ revitalize
 * **Lest it should result in...**（唯恐/以免导致……） — *Modernization of agriculture must be carefully managed, **lest it** should result in the erosion of traditional cultural identity.*
 * sift through the noise and extract the essence - 去其糟粕，取其精华
 * the symbiotic relationship between - ...之间的共生关系
+* At the other end of the spectrum: 在光谱的另一端/另一方面
 
 ## 总结
 
 * Ultimately, it boils down to (our self discipline) - 最终归结于
 
-## 成果
+## 成果/作用
 
 * Yield fruitful results - 取得丰硕成果
+* long-term dividend - 长期回报
+* Conducive to - 有助于...的形成
 
 ## 启示
 
