@@ -1,5 +1,5 @@
 ---
-title: 英语写作-动物描写
+title: 英语写作-动物与植物描写
 date: 2026-04-18 23:47:23
 categories:
     - 英语
@@ -11,3 +11,5 @@ tags:
 * **Tame** (驯服的) -- a tame animal -- 形容动物温顺、已被人类驯化
 * **Whine** (哀鸣，发呜呜声) -- a whining sound -- 形容动物或物体发出的高音调且持续的声音。
 * **Prowl** ((潜行)徘徊) -- prowl around the house -- 像野兽捕猎一样悄悄移动。
+
+* uproot(将...连根拔起): The violent midnight storm uprooted several century-old trees along the avenue.

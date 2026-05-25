@@ -31,7 +31,7 @@ date: 2026-05-02 17:02:41
 健康的生活方式，优秀品行，公民义务和社会责任，生命安全（自然灾害与防范）
 认识自我
 终身学习
-<!-- 劳动实践与工匠精神 -->
+工匠精神
 创新与创业意识
 良好的人际关系与社会交往
 公益事业与志愿服务
@@ -189,6 +189,7 @@ date: 2026-05-02 17:02:41
 * **grueling process of stepping out of my comfort zone**: 迈出舒适区的煎熬历程
 * **Confronted with exceptionally eloquent opponents**: 面对异常雄辩的对手
 * dwell in an ivory tower: 两耳不闻窗外事
+* Academic insularity: 学术界或学校体制上的孤立与闭塞
 
 ## Physical Education
 
