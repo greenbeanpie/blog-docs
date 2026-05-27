@@ -41,3 +41,5 @@ tags:
 * armed with - 装备
 * elaborate/orchestrate - 精心策划
 * auditory/multi-sensory feast - 多感官盛宴
+* an indispensable part of life - 生活不可或缺的一部分
+* fleeting yet beautiful moment - 转瞬即逝的美好时光

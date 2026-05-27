@@ -32,7 +32,6 @@ date: 2026-05-02 17:02:41
 认识自我
 终身学习
 创新与创业意识
-良好的人际关系与社会交往
 跨文化沟通
 {% endnote%}
 
@@ -258,12 +257,6 @@ date: 2026-05-02 17:02:41
 * individuality/selfhood - 人的个体性(差异性)/主体性(意识性)
 * Align personal values with career choices: 将个人价值观与职业选择相契合
 
-## Harmonious Relationship/Social Interaction
-
-* an indispensable part of life - 生活不可或缺的一部分
-* incivility n. - 不文明行为
-* self-censorship - 自我审查
-* fleeting yet beautiful moment - 转瞬即逝的美好时光
 
 # Traditional Culture/Cultural Heritage
 
@@ -279,6 +272,24 @@ date: 2026-05-02 17:02:41
 # Human and Society
 
 * Act as a powerful catalyst for social cohesion: 充当增强社会凝聚力的强效催化剂
+
+## Harmonious Relationship/Social Interaction
+
+* **social fabric**: 社会结构/人际关系网
+* **build rapport**: 建立融洽关系
+* **set healthy boundaries**: 设立健康边界
+* incivility n. - 不文明行为
+* self-censorship - 自我审查
+* estrange v. - 疏远 - ~ from sb.
+> alienation: 疏离
+* isolation n. - 隔离状态
+* **articulate**: 清晰地表达
+<!-- * Dissonance: 不声音和谐，刺耳；（想法、行为、信仰之间的）不一致，不协调，冲突（通常伴随一种令人不适的摩擦感或内耗状态）
+> cultural / social dissonance（文化/社会不协调） -->
+* Intercourse: 交往
+* sow discord: 挑拨离间/散布不和
+* De-escalate interpersonal friction: 缓解/降低人际摩擦与冲突
+* Act as a powerful buffer against social alienation: 作为对抗社会疏离感/孤独感的强效缓冲器
 
 ## Environmental Protection
 
@@ -302,20 +313,21 @@ date: 2026-05-02 17:02:41
 ## Charity Event/Social Philanthropy
 
 * Altruism: 利他主义/无私奉献
+> Altruistic participant: 无私奉献的参与者
 * Assist marginalized communities: 帮助弱势/边缘化群体
 
 ### Charity Bazzar
 
-* Mobilize resources
+* Mobilize resources: 调动资源
 * **source and categorize items**: 筹集并分类物品
-* **set up diverse stalls**: 摆设各式各样的摊位
+* **establish vibrant stalls**: 摆设各式各样的摊位
 * **handmade crafts and secondhand commodities**: 手工制品与二手商品
-* **engage with passionate donors**: 与热情的捐赠者互动
-* **channel all proceeds to...**: 将所有收益资助给……
+* **channel all proceeds to...**: 将所有收益资助给...
+* Contribute financial proceeds: 捐赠财物收益
+* subsidize the medical expenses of: 资助...的医疗费用
 
 ### Litter Cleanup
 
-* Clear accumulated debris / Eradicate refuse
 * **collect discarded litter**: 捡拾废弃垃圾
 * **segregate recyclable waste from hazards**: 将可回收垃圾与有害垃圾分类
 * **scour the coastal area / neighborhood**: 彻底清扫沿海地区/社区
@@ -323,12 +335,14 @@ date: 2026-05-02 17:02:41
 * **environmental stewardship**: 环境主人公意识
 * **raise community-wide ecological awareness**：提高全社区的生态意识
 * **foster a culture of sustainability**：培养可持续发展的文化
+* *Converge at designated ecological zones to extract non-biodegradable waste.*（聚集在指定的生态区域，清理不可降解的垃圾。）
+* *Sort and categorize collected refuse to facilitate efficient recycling.*（对收集到的废弃物进行分类，以促进高效循环利用。）
 
 ### Volunteer Teaching
 
-* Underfunded educational institutions / Remote regions
+* Underfunded educational institutions / Remote regions: 偏远地区
 * **devise customized lesson plans**：制定定制教案
-* **conduct interactive workshops**：开展互动式课堂/工作坊
+* Deliver tailored academic curricula: 提供定制课程
 * **distribute essential school supplies**：发放必备的学习用品
 * **bridge the knowledge gap**：弥合知识差距
 > * **broaden academic and personal horizons**：拓宽学业与个人视野
@@ -338,127 +352,13 @@ date: 2026-05-02 17:02:41
 ### Public Awareness Campaign
 
 * **disseminate informative brochures**：发放信息化宣传手册
-* **utilize digital platforms for advocacy**：利用数字平台进行宣讲呼吁
-* **address public misconceptions**：纠正公众误解
+* *Harness digital media platforms to amplify the reach of the advocacy.*（利用数字媒体平台扩大倡导活动的影响范围。）
+* *Dismantle deep-seated misconceptions and catalyze a sustainable behavioral shift.*（消除根深蒂固的误解，催化可持续的行为转变。）
 * **deliver passionate speeches**：发表富有激情的演讲
 * **catalyze behavioral shifts**：催化行为转变
 * **mobilize collective action**：动员集体行动
-* **shape a more empathetic public sentiment**：塑造更具同理心的公众舆论
-
-<!-- 作为你的语料助手，我为你针对“志愿服务与公益活动（Volunteering & Philanthropic Initiatives）”这一高频写作主题整理了高质量的语言素材。
-
-志愿活动在英语应用文（如感谢信、倡议书、活动总结报告）或议论文中，通常需要精确区分“行动过程（微观动作）”**与**“社会影响（宏观价值）”。以下为你梳理的具体语料将围绕慈善义卖、环境保护、支教和公众宣传四个核心场景展开。
-
----
-
-## 一、 核心词汇与高级替换建议
-
-在正式写作中，应避免重复使用 volunteer, help, give, bad environment 等初级词汇。请参考以下学术与公文写作中的高级替换方案：
-
-| 基础词汇 | 高级学术替换 | 适用语境与微观语意 |
-| --- | --- | --- |
-| **Volunteer** (志愿者) | **Altruistic participant / Benevolent advocate** | *Altruistic participant* 强调无私奉献的参与者；*Benevolent advocate* 侧重于充满善意的倡导者。 |
-| **Help people** (帮助他人) | **Assist marginalized communities / Alleviate hardships** | *Marginalized communities* 指弱势群体/边缘化群体；*Alleviate hardships* 特指缓解、减轻他人的生活困境。 |
-| **Pick up trash** (捡垃圾) | **Clear accumulated debris / Eradicate refuse** | *Accumulated debris* 意为堆积的碎屑、垃圾；*Eradicate refuse* 指彻底清除废弃物，显得非常专业。 |
-| **Give/Donate money** (捐钱) | **Contribute financial proceeds / Mobilize resources** | *Financial proceeds* 特指活动募集到的款项或收益；*Mobilize resources* 指调动、筹集资源。 |
-| **Poor schools** (贫困学校) | **Underfunded educational institutions / Remote regions** | 官方且不带偏见的表述，指资金不足的教育机构或偏远地区。 |
-
----
-
-## 二、 四大志愿活动专项语料（过程与影响）
-
-### 1. 慈善义卖（Charity Bazaar / Philanthropic Sale）
-
-* **活动过程表述（Process）**
-* *Mobilize community resources to curate donated goods.*（调动社区资源以筹集捐赠物品。）
-* *Establish vibrant stalls to engage with benevolent buyers.*（设立充满活力的摊位以吸引善意的买家。）
-
-
-* **活动影响表述（Impact）**
-* *Channel all financial proceeds to subsidize the medical expenses of vulnerable demographics.*（将所有经济收益用于资助弱势群体的医疗费用。）
-* *Cultivate a pervasive culture of philanthropy within the neighborhood.*（在社区内培养一种无处不在的慈善文化。）
-
-
-
-### 2. 环境保护：以捡垃圾为例（Environmental Cleanup Campaign）
-
-* **活动过程表述（Process）**
-* *Converge at designated ecological zones to extract non-biodegradable waste.*（聚集在指定的生态区域，清理不可降解的垃圾。）
-* *Sort and categorize collected refuse to facilitate efficient recycling.*（对收集到的废弃物进行分类，以促进高效循环利用。）
-
-
-* **活动影响表述（Impact）**
-* *Mitigate localized ecological degradation and restore the landscape's pristine state.*（缓解局部生态退化，恢复景观的原始状态。）
-* *Foster a collective sense of environmental stewardship among citizens.*（在公民中培养一种集体环境管理/主人翁意识。）
-
-
-
-### 3. 志愿支教（Volunteer Teaching Venture）
-
-* **活动过程表述（Process）**
-* *Deliver tailored academic curricula and interactive workshops to underserved students.*（为缺乏教育资源的学生提供定制的学术课程和互动式工作坊。）
-* *Impart modern learning methodologies and digital literacy.*（传授现代学习方法论和数字化素养。）
-
-
-* **活动影响表述（Impact）**
-* *Bridge the widening educational disparity between urban and rural regions.*（缩小日益扩大的城乡教育差距。）
-* *Ignite a lifelong aspiration for knowledge and unlock students' latent potential.*（点燃学生对知识的终身渴望，释放他们的潜在天赋。）
-
-
-
-### 4. 公众宣传活动（Public Awareness Campaign）
-
-* **活动过程表述（Process）**
+* **Heighten public consciousness**：提高公众认知水平
 * *Disseminate informative brochures and orchestrate simulated scenarios in public squares.*（在公共广场发放宣传手册并组织模拟场景体验。）
-* *Harness digital media platforms to amplify the reach of the advocacy.*（利用数字媒体平台扩大倡导活动的影响范围。）
-
-
-* **活动影响表述（Impact）**
-* *Heighten public consciousness regarding critical societal issues.*（提高公众对关键社会议题的认知水平。）
-* *Dismantle deep-seated misconceptions and catalyze a sustainable behavioral shift.*（消除根深蒂固的误解，催化可持续的行为转变。）
-
-
-
----
-
-## 三、 地道例句展示与场景应用
-
-* **例句 A（适用于活动总结或感谢信，突出“过程到影响”的转化）**
-> *Sentence*: Driven by altruistic motivations, the team successfully mobilized various social resources, culminating in a significant financial contribution to the local orphanage.
-> *场景说明*: 用于总结慈善义卖或筹款活动的圆满成功，展现行为的主动性。
-
-
-* **例句 B（适用于环保类或支教类倡议书，强调“个人行动的宏观价值”）**
-> *Sentence*: While picking up accumulated debris or delivering a single lesson may seem incremental, such firsthand involvement collectively reinforces the social fabric and heals the environment.
-> *场景说明*: 辩证句型，用于论述看似微小的志愿行为如何汇聚成巨大的社会正能量。
-
-
-
----
-
-## 四、 志愿主题专属逻辑衔接词
-
-在论述志愿服务时，逻辑链条通常遵循“动机 $\rightarrow$ 亲身行动 $\rightarrow$ 产生影响 $\rightarrow$ 精神升华”的顺序：
-
-> **用于引出志愿者的无私动机（动机链）：**
-> * **Guided by a profound sense of civic duty, ...**（在深厚的公民责任感引导下……）
-> * **With an unwavering commitment to societal well-being, ...**（怀着对社会福祉坚定不移的奉献精神……）
-> 
-> 
-
-> **用于连接“微观行动”与“宏观影响”（因果与递进）：**
-> * **On an individual scale... concurrently, on a systemic level...**（在个人层面上……与此同时，在系统/社会层面上……）
-> * **Act as a powerful catalyst for...**（充当了……的强效催化剂） — *This cleanup campaign acted as a powerful catalyst for raising local ecological literacy.*
-> 
-> 
-
-> **用于总结志愿服务的根本精神（升华链）：**
-> * **In the final analysis, the true beneficiary of volunteerism is not only the recipient, but also...**（归根结底，志愿服务的真正受益者不仅是接受者，更是……）
-> * **Consequently, such pragmatic engagement bridges social divides, ensuring...**（因此，这种务实的参与消除了社会隔阂，确保了……）
-> 
-> 
-
---- -->
 
 ## Society Development
 
@@ -508,7 +408,7 @@ date: 2026-05-02 17:02:41
 * satirical paradox - 讽刺的悖论（自相矛盾的情况）
 * the illusion of choice - 选择的幻象
 * to operate on autopilot - 以自动驾驶方式生活(失去意识/选择)
-* public sentiment - 公众舆论
+* public sentiment - 公众舆论(感性认识)
 * tangible/authentic/genuine adj. - 可感知的/真实的/真诚的
 * circumscribes the boundaries of our autonomy - 限制自主权的边界
 * humanistic concern/care - 人文关怀
@@ -533,11 +433,6 @@ date: 2026-05-02 17:02:41
 *   **The Hedonic Treadmill** (n.): 快感跑步机 (追求消费带来的快感 -> 很快适应 -> 追求更高快感，循环往复)
 *   **Homogenization** (n.): 同质化 (人们为了符合某种“审美”或“标准”而变得一样)
 
-### Atomic Individual
-
-* estrange v. - 疏远 - ~ from sb.
-* isolation n. - 隔离状态
-
 ### Attention Plunder/Cognitive Deficiency
 
 * bite-sized digital content
@@ -545,6 +440,7 @@ date: 2026-05-02 17:02:41
 * In an era craving efficiency, we must guard against sacrificing the depth of thought at the altar of convenience.
 *   **Cognitive Offloading** (n.): 认知卸载 (将记忆、思考交给设备，导致思维能力退化)
 *   **Echo Chamber / Filter Bubble** (n.): 回声室 / 过滤气泡 (导致认知狭隘，丧失主体批判力)
+*   **superficial interaction**: 肤浅互动
 
 ### Internet
 
